@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"a0509e0bb6220043","type":"file","file":"矩阵的秩的常见关系式.md","x":-160,"y":820,"width":760,"height":1620},
+		{"id":"7aec2b2f74e37dc4","type":"file","file":"行列式乘法定理.md","x":962,"y":1980,"width":475,"height":280},
+		{"id":"378c3fa533f399fc","type":"file","file":"Binet-Cauchy公式.md","x":880,"y":2400,"width":640,"height":1280},
+		{"id":"15bbcc3b41915d3a","type":"file","file":"用Binet-Cauchy公式计算矩阵乘积的子式.md","x":1642,"y":2840,"width":640,"height":380},
+		{"id":"21da954ad6073c99","type":"file","file":"矩阵的秩.md","x":962,"y":1120,"width":518,"height":400},
+		{"id":"b12f9be140a7184a","type":"file","file":"分块初等矩阵和分块初等变换.md","x":-20,"y":200,"width":400,"height":400},
+		{"id":"fc1b6aa9c9da7fc1","type":"file","file":"矩阵乘法与方程组的解.md","x":-220,"y":-340,"width":400,"height":320},
+		{"id":"86ac5a795e03cda3","x":1671,"y":1919,"width":400,"height":400,"type":"file","file":"行列式乘法定理的推论.md"},
+		{"id":"435a2c0487f6aa25","x":962,"y":1600,"width":480,"height":319,"type":"file","file":"矩阵乘积的秩的基本定理.md"}
+	],
+	"edges":[
+		{"id":"c4b09fa3fe15e8e3","fromNode":"7aec2b2f74e37dc4","fromSide":"bottom","toNode":"378c3fa533f399fc","toSide":"top"},
+		{"id":"bd6850a58f7cbfbf","fromNode":"378c3fa533f399fc","fromSide":"right","toNode":"15bbcc3b41915d3a","toSide":"left"},
+		{"id":"b6edc0174581b728","fromNode":"435a2c0487f6aa25","fromSide":"top","toNode":"21da954ad6073c99","toSide":"bottom"},
+		{"id":"9b11da57017f0c85","fromNode":"7aec2b2f74e37dc4","fromSide":"right","toNode":"86ac5a795e03cda3","toSide":"left"}
+	]
+}

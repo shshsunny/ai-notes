@@ -1,0 +1,6 @@
+- @$V=W\oplus U$，平行于$W$在$U$上的投影$P_U$
+- （投影是和为恒等变换的正交幂等变换）若$V=W\oplus U$，则$\mathcal P_W,\mathcal P_U$是**正交**的**幂等**变换，且$\mathcal P_W+\mathcal P_U=\mathcal I$
+- （和为恒等变换的正交幂等变换是投影）若$\mathcal{A,B}$是**正交**的**幂等**变换，且$\mathcal{A+B=I}$，则$V=Im\mathcal A\oplus Im\mathcal B$，$A=\mathcal P_{Im\mathcal A},B=\mathcal P_{{Im\mathcal B}}$
+- （**幂等变换是投影**，将空间分解为直和）若$\mathcal A$为**幂等**变换，则$V=\mathrm{Im}A\oplus \ker A$，且$\mathcal A=P_{\mathcal{\mathrm{Im}A}}$
+	- 推论：$V=U\oplus W$，则$U=\mathrm{Im}\mathcal{P}_{U},W=\ker \mathcal{P}_{U}$
+	- 推论：对$V$作直和分解，其中一个子空间为$U$，则$U$即可视作平行于其补空间在其上投影的象，又可视作平行于它在它的补空间上投影的核

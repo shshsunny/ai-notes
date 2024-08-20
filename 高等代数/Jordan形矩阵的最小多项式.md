@@ -1,0 +1,2 @@
+根据**【推论】**及Jordan块的最小多项式特点，若Jordan形矩阵$J=diag\{ J_{l_{11}}(k_{1}),\dots,J_{l_{1r_{1}}}(k_{1}),\dots,J_{l_{s1}}(k_{s}),\dots,J_{l_{sr_{s}}}(k_{s}) \}$，则其最小多项式为$m(\lambda)=(\lambda-k_{1})^{L_{1}}\dots(\lambda-k_{s})^{L_{s}}$，
+$L_i=\max \{l_{i1},...,l_{ir_i}\}$。
